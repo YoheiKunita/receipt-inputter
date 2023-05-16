@@ -1,16 +1,8 @@
 # receipt-inputter
-[はじめに](#はじめに)
-[実装した機能](#実装した機能)
-[使用手順](### 使用手順)
-[今後の修正点](### 今後の修正点)
-
-[Getting started](#getting-started) •
-[Installation](#installation) •
-[Configuration](#configuration) •
-[Integrations](#third-party-integrations)
-
-</div>
-
+[はじめに](#はじめに)<br>
+[実装した機能](#実装した機能)<br>
+[使用手順](#使用手順)<br>
+[今後の修正点](#今後の修正点)<br>
 
 ### はじめに
 このコードはレシートを効率よくMoney Forword Meの家計簿に入力するために作りました。<br>
@@ -60,6 +52,3 @@
 - 実行の結果をまとめる
     - ログファイルを作成
     - 画像も保存する
-
-
-## Getting started
