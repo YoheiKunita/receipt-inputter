@@ -34,6 +34,7 @@
 1. [ブラウザ入力]を押す<br>
   [ブラウザ入力]を押すとブラウザが起動し、Money Forword Meへ自動で入力を行います。
   
+  ![Test Image 1](test_receipt_image.jpeg) ![Test Image ](usage_image.png)
   
 ### 今後の修正点
 - リファクタリング
